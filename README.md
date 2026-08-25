@@ -1,0 +1,2 @@
+# aze-editor-ratings
+Ratings
